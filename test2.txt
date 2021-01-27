@@ -1,0 +1,4 @@
+
+hello1 git init Initialize an empty git repo in current project
+2 git clone (Repo URL) Clone the repository from github to the project folder
+3 git clone (Repo URL) (Folder ) Clone the repository into the specific foldeiiiir
